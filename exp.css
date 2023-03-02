@@ -1,0 +1,24 @@
+.howrah {
+
+    box-shadow: 2px 2px 30px black;
+    background-color: white;
+    padding: 20px;
+    cursor: pointer;
+    width: 97%;
+    border-radius: 10px;
+    margin-top: 62px;
+    background-image: url(/images/howrahbride/how2.jpg);
+}
+
+.map1{
+    margin-left: 65%;
+}
+
+.howrah p{
+    margin-left: 15%;
+    margin-top: 4%;
+    color: rgb(6, 6, 6);
+    position: absolute;
+    font-weight: 600;
+    font-size: 46px;
+}

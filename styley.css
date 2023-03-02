@@ -1,0 +1,486 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#box{
+    position: relative;
+    height: 50%;
+    width: 70%;
+}
+
+img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 723px;
+    width: 1519px;
+    margin-left: 0px;
+    margin-top: -12px;
+    margin-right: 0px;
+    }
+.logo{
+    height: 108px;
+    width: 128px;
+    position:absolute;
+    margin-top: -753px;
+    display: flex;
+    
+}
+.navbar {
+    background-color: rgb(2, 2, 2);
+    width: 100%;
+    height: 71px;
+    position: relative;
+    
+}
+
+.navbar a {
+    color: rgb(252, 249, 249);
+    text-decoration: none;
+    margin: 27px 35px 10px;
+    float: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+}
+
+.navbar a:hover {
+    background-color: rgb(25, 211, 164);
+    border-radius: 5px;
+    transform: translateY(3px);
+    color: rgb(12, 12, 12);
+    transition: all 0.8s;
+    padding: 9px 9px 9px 9px;
+}
+.menu1{
+    border:0px solid black;
+    width: 251px;
+    height: 325px;
+    margin-top:372px;
+    margin-left: 69px;
+    margin-bottom: -112px;
+    position: relative;
+    
+    display: inline-block;
+    box-shadow: 12px 13px 26px 0 black;
+    border-radius: 20px;
+    background-color: black;
+}
+.menu1 img{
+    height: 287px;
+    width: 100%;
+    position: absolute;
+    border-radius: 20px;
+}
+
+h4.head3{
+    display: flex;
+    position: absolute;
+    margin: 157px 629px 63px;
+    font-size: 40px;
+   
+}
+.menu1 p{
+    color: white;
+    position:absolute;
+    text-align: center;
+    margin-top: 132px;
+    padding: 155px 94px 21px;
+    font-size: 24px;
+}
+.team member role{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container2{
+    padding: 20px 20px 20px;
+    display: inline;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bazz{
+    margin-top: 20%;
+
+}
+
+.bazz h1{
+    font-size: 52px;
+    margin-bottom: 100px;
+    text-align: center;
+    
+
+}
+
+.team{
+    display: flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+}
+.member{
+    background:white;
+    margin: 5px;
+    margin-bottom: 50px;
+    width: 300px;
+    padding: 20px;
+    line-height: 28px;
+    box-shadow: 5px 11px 22px -5px black;
+    position: relative;
+    margin-left: 15px;
+    margin-top: 80px;
+    cursor: pointer;
+}
+
+.team .member p.role{
+    color: brown;
+    font-size: 18px;
+    margin:12px 0;
+    font-weight: bold;
+
+    
+}
+
+.member p{
+    font-size: 20px;
+}
+
+.team_img img{
+width: 106px;
+height: 110px;
+border-radius: 50%;
+margin-bottom: 30px;
+position: absolute;
+top: -76px;
+margin-left: -50px ;
+
+}
+
+
+#page5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    font-size: 30px;
+    margin-top: 150px;
+}
+
+.c_img img{
+    width: 100px;
+    height: 100px;
+    overflow:hidden;
+    object-position: center;
+    margin-right: 10px;
+    object-fit: cover;
+    border-radius: 10px;
+
+}
+
+.cbox{
+    display: flex;
+    margin-top: 150px;
+    
+}
+
+.cbox1{
+    width: 500px;
+    box-shadow: 2px 2px 30px black;
+    background-color: white;
+    padding: 20px;
+    margin: 15px;
+    cursor:pointer;
+    width: 1291px;
+    border-radius: 10px;
+margin-top: -71px;
+}
+
+
+
+.c_img{
+    display: flex;
+    align-items: center;
+    
+}
+
+.cname{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.cname strong{
+    color: rgb(85, 4, 117);
+    font-size: 30px;
+}
+
+.cboxtop{
+    display: flex;
+    justify-content: space-between;
+  
+    margin-bottom: 20px;
+
+}
+
+.comments p{
+    font-size: 20px;
+}
+
+.reviews i{
+    color: rgb(255, 0, 140);
+    font-size: 25px;
+}
+
+footer
+{
+    position: relative;
+    width: 87%;
+    height: auto;
+    padding: 50px 100px;
+    background-color: rgba(53, 50, 53, 0.432);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+footer .footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+footer .footer .faboutus{
+    width: 40%;
+    margin-left: -52px;
+}
+footer .footer .faboutus{
+    position: relative;
+    font-weight: 500;
+    margin-bottom: 15px;
+    
+}
+
+.sci{
+    margin-top: 39px;
+margin-bottom: 20px;
+margin-right: 728px;
+    margin-left: -52px;
+    display: flex;
+    border-radius: 50px;
+}
+
+.sci2{
+    margin-top: -60px;
+margin-bottom: 20px;
+margin-right: 728px;
+    margin-left: 5px;
+    display: flex;
+}
+.sci3{
+    margin-top: -60px;
+margin-bottom: 20px;
+margin-right: 728px;
+    margin-left: 60px;
+    display: flex;
+}
+.sci4{
+    margin-top: -60px;
+margin-bottom: 20px;
+margin-right: 728px;
+    margin-left: 115px;
+    display: flex;
+}
+.sci5{
+    margin-top: -60px;
+margin-bottom: 20px;
+margin-right: 728px;
+    margin-left: 174px;
+    display: flex;
+}
+
+.sci li{
+    list-style: none;
+}
+.sci2 li{
+    list-style: none;
+}
+.sci3 li{
+    list-style: none;
+}
+.sci4 li{
+    list-style: none;
+}
+.sci5 li{
+    list-style: none;
+}
+
+.sci li a{
+    display:inline-block ;
+    height: 40px;
+    width: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background:#222;
+    display: flex;
+    text-decoration: none;
+    margin-left: 10px;
+    border-radius: 50px;
+}
+
+.sci li a:hover
+{
+    background-color: rgb(0, 60, 255);
+}
+
+.sci i{
+    color: white;
+}
+
+.sci2 i{
+    color: white;
+}
+.sci3 i{
+    color: white;
+}
+
+.sci4 i{
+    color: white;
+}
+
+.sci5 i{
+    color: white;
+}
+
+.flinks{
+    
+    position: absolute;
+    width: 25%;
+    margin:0px 8px 1px 575px;
+    
+}
+
+.flinks ul li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+
+}
+
+.flinks ul li{
+    list-style: none;
+}
+
+.flinks ul li a:hover{
+    color: rgb(203, 200, 206);
+}
+
+.fcontact .info li{
+    margin-bottom: 16px;
+    font-weight: 20px;
+    list-style: none;
+
+}
+
+.fcontact .info li span {
+    font-size: 17px;
+}
+
+.fcontact{
+    margin-left: 82%;
+    margin-top: -260px;
+
+}
+
+.fcontact .info a{
+    text-decoration: none;
+    color: rgb(7, 7, 7);
+ } 
+.fcontact .info a:hover{
+    color: rgb(10, 46, 5);
+}  
+.copyright p{
+  text-align: center;
+    margin-top: -34px;
+    margin-right: 50px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sci2 li a:hover
+{
+    background-color: rgb(10, 163, 5);
+}
+
+.sci2 li a{
+    display:inline-block ;
+    height: 40px;
+    width: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background:#222;
+    display: flex;
+    text-decoration: none;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+.sci3 li a:hover
+{
+    background-color: rgb(241, 13, 108);
+}
+
+.sci3 li a{
+    display:inline-block ;
+    height: 40px;
+    width: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background:#222;
+    display: flex;
+    text-decoration: none;
+    margin-left: 10px;
+    border-radius: 50px;
+}
+
+.sci4 li a:hover
+{
+    background-color: rgb(6, 192, 248);
+}
+
+.sci4 li a{
+    display:inline-block ;
+    height: 40px;
+    width: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background:#222;
+    display: flex;
+    text-decoration: none;
+    margin-left: 10px;
+    border-radius: 50px;
+}
+
+.sci5 li a:hover
+{
+    background-color: rgb(248, 6, 6);
+}
+
+.sci5 li a{
+    display:inline-block ;
+    height: 40px;
+    width: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background:#222;
+    display: flex;
+    text-decoration: none;
+    margin-left: 10px;
+    border-radius: 50px;
+}

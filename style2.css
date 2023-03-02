@@ -1,0 +1,1169 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#box {
+    position: relative;
+    height: 50%;
+    width: 70%;
+}
+
+img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 723px;
+    width: 1519px;
+    margin-left: 0px;
+    margin-top: -12px;
+    margin-right: 0px;
+}
+
+.logo {
+    height: 108px;
+    width: 128px;
+    position: absolute;
+    margin-top: -753px;
+    display: flex;
+
+}
+
+.navbar {
+    background-color: rgb(2, 2, 2);
+    width: 100%;
+    height: 71px;
+    position: relative;
+
+}
+
+.navbar a {
+    color: rgb(252, 249, 249);
+    text-decoration: none;
+    margin: 27px 35px 10px;
+    float: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+}
+
+.navbar a:hover {
+    background-color: rgb(25, 211, 164);
+    border-radius: 5px;
+    transform: translateY(3px);
+    color: rgb(12, 12, 12);
+    transition: all 0.8s;
+    padding: 9px 9px 9px 9px;
+}
+
+.menu1 {
+    border: 0px solid black;
+    width: 336px;
+    height: 388px;
+    margin-top: 372px;
+    margin-left: 100px;
+    margin-bottom: -112px;
+    position: relative;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    box-shadow: 12px 13px 26px 0 black;
+    border-radius: 20px;
+}
+
+.menu2 {
+    border: 0px solid black;
+    width: 336px;
+    height: 388px;
+    margin-top: 372px;
+    margin-left: 100px;
+    margin-bottom: -112px;
+    position: relative;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    box-shadow: 12px 13px 26px 0 black;
+    border-radius: 20px;
+}
+
+.menu3 {
+    border: 0px solid black;
+    width: 336px;
+    height: 388px;
+    margin-top: 372px;
+    margin-left: 100px;
+    margin-bottom: -112px;
+    position: relative;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    box-shadow: 12px 13px 26px 0 black;
+    border-radius: 20px;
+}
+
+.menu4 {
+    border: 0px solid black;
+    width: 336px;
+    height: 388px;
+    margin-top: 372px;
+    margin-left: 100px;
+    margin-bottom: -112px;
+    position: relative;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    box-shadow: 12px 13px 26px 0 black;
+    border-radius: 20px;
+}
+
+.menu5 {
+    border: 0px solid black;
+    width: 336px;
+    height: 388px;
+    margin-top: 372px;
+    margin-left: 100px;
+    margin-bottom: -112px;
+    position: relative;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    box-shadow: 12px 13px 26px 0 black;
+    border-radius: 20px;
+}
+
+.menu6 {
+    border: 0px solid black;
+    width: 336px;
+    height: 388px;
+    margin-top: 372px;
+    margin-left: 100px;
+    margin-bottom: -112px;
+    position: relative;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    box-shadow: 12px 13px 26px 0 black;
+    border-radius: 20px;
+}
+
+.menu7 {
+    border: 0px solid black;
+    width: 336px;
+    height: 388px;
+    margin-top: 372px;
+    margin-left: 100px;
+    margin-bottom: -112px;
+    position: relative;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    box-shadow: 12px 13px 26px 0 black;
+    border-radius: 20px;
+}
+
+.menu8 {
+    border: 0px solid black;
+    width: 336px;
+    height: 388px;
+    margin-top: 372px;
+    margin-left: 100px;
+    margin-bottom: -112px;
+    position: relative;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    box-shadow: 12px 13px 26px 0 black;
+    border-radius: 20px;
+}
+
+.menu9 {
+    border: 0px solid black;
+    width: 336px;
+    height: 388px;
+    margin-top: 372px;
+    margin-left: 100px;
+    margin-bottom: -112px;
+    position: relative;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    box-shadow: 12px 13px 26px 0 black;
+    border-radius: 20px;
+}
+
+.menu1 img {
+    height: 287px;
+    width: 100px;
+    position: absolute;
+    border-radius: 20px;
+
+}
+
+.menu2 img {
+    height: 287px;
+    width: 100px;
+    position: absolute;
+    border-radius: 20px;
+
+}
+
+.menu3 img {
+    height: 287px;
+    width: 100px;
+    position: absolute;
+    border-radius: 20px;
+
+}
+
+.menu4 img {
+    height: 287px;
+    width: 100px;
+    position: absolute;
+    border-radius: 20px;
+
+}
+
+.menu5 img {
+    height: 287px;
+    width: 100px;
+    position: absolute;
+    border-radius: 20px;
+
+}
+
+.menu6 img {
+    height: 287px;
+    width: 100px;
+    position: absolute;
+    border-radius: 20px;
+
+}
+
+.menu7 img {
+    height: 287px;
+    width: 100px;
+    position: absolute;
+    border-radius: 20px;
+
+}
+
+.menu8 img {
+    height: 287px;
+    width: 100px;
+    position: absolute;
+    border-radius: 20px;
+
+}
+
+.menu9 img {
+    height: 287px;
+    width: 100px;
+    position: absolute;
+    border-radius: 20px;
+
+}
+
+h4.head3 {
+    display: flex;
+    position: absolute;
+    margin: 157px 629px 63px;
+    font-size: 40px;
+
+}
+
+.menu1 p {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 262px;
+    margin-left: 50px;
+    padding: 157px 17px 1px;
+    font-size: 24px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu2 p {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 262px;
+    margin-left: 86px;
+    padding: 157px 17px 1px;
+    font-size: 24px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu3 p {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 262px;
+    margin-left: 58px;
+    padding: 157px 17px 1px;
+    font-size: 24px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu4 p {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 262px;
+    margin-left: 58px;
+    padding: 157px 17px 1px;
+    font-size: 24px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu5 p {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 262px;
+    margin-left: 58px;
+    padding: 157px 17px 1px;
+    font-size: 24px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu6 p {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 262px;
+    margin-left: 58px;
+    padding: 157px 17px 1px;
+    font-size: 24px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu7 p {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 262px;
+    margin-left: 58px;
+    padding: 157px 17px 1px;
+    font-size: 24px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu8 p {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 262px;
+    margin-left: 58px;
+    padding: 157px 17px 1px;
+    font-size: 24px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu9 p {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 262px;
+    margin-left: 58px;
+    padding: 157px 17px 1px;
+    font-size: 24px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.team member role {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container2 {
+    padding: 20px 20px 20px;
+    display: inline;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container3 {
+    padding: 20px 20px 20px;
+    display: inline;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container4 {
+    padding: 20px 20px 20px;
+    display: inline;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container5 {
+    padding: 20px 20px 20px;
+    display: inline;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container6 {
+    padding: 20px 20px 20px;
+    display: inline;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container7 {
+    padding: 20px 20px 20px;
+    display: inline;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container8 {
+    padding: 20px 20px 20px;
+    display: inline;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container9 {
+    padding: 20px 20px 20px;
+    display: inline;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container10 {
+    padding: 20px 20px 20px;
+    display: inline;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container2 a {
+    margin-left: 226px;
+    margin-top: 55%;
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.container3 a {
+    margin-left: 226px;
+    margin-top: 55%;
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.container4 a {
+    margin-left: 226px;
+    margin-top: 55%;
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.container5 a {
+    margin-left: -82%;
+    margin-top: 98%;
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.container6 a {
+    margin-left: 16%;
+    margin-top: 55%;
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.container7 a {
+    margin-left: 15%;
+    margin-top: 55%;
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.container8 a {
+    margin-left: -82%;
+    margin-top: 98%;
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.container9 a {
+    margin-left: -82%;
+    margin-top: 98%;
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.container10 a {
+    margin-left: -82%;
+    margin-top: 98%;
+    text-decoration: none;
+    color: black;
+    position: absolute;
+    font-size: 21px;
+    font-weight: bolder;
+}
+.bazz {
+    margin-top: 20%;
+
+}
+
+.bazz h1 {
+    font-size: 52px;
+    margin-bottom: 100px;
+    text-align: center;
+
+
+}
+
+.team {
+    display: flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+}
+
+.member {
+    background: white;
+    margin: 5px;
+    margin-bottom: 50px;
+    width: 300px;
+    padding: 20px;
+    line-height: 28px;
+    box-shadow: 5px 11px 22px -5px black;
+    position: relative;
+    margin-left: 15px;
+    margin-top: 80px;
+    cursor: pointer;
+}
+
+.team .member p.role {
+    color: brown;
+    font-size: 18px;
+    margin: 12px 0;
+    font-weight: bold;
+
+
+}
+
+.member p {
+    font-size: 20px;
+}
+
+.team_img img {
+    width: 106px;
+    height: 110px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+    position: absolute;
+    top: -76px;
+    margin-left: -50px;
+
+}
+
+
+#page5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    font-size: 30px;
+    margin-top: 372px;
+}
+
+.c_img img {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    object-position: center;
+    margin-right: 10px;
+    object-fit: cover;
+    border-radius: 10px;
+
+}
+
+.cbox {
+    display: flex;
+    margin-top: 150px;
+
+}
+
+.cbox1 {
+    width: 500px;
+    box-shadow: 2px 2px 30px black;
+    background-color: white;
+    padding: 20px;
+    margin: 15px;
+    cursor: pointer;
+    width: 1291px;
+    border-radius: 10px;
+    margin-top: -71px;
+}
+
+
+
+.c_img {
+    display: flex;
+    align-items: center;
+
+}
+
+.cname {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.cname strong {
+    color: rgb(85, 4, 117);
+    font-size: 30px;
+}
+
+.cboxtop {
+    display: flex;
+    justify-content: space-between;
+
+    margin-bottom: 20px;
+
+}
+
+.comments p {
+    font-size: 20px;
+}
+
+.reviews i {
+    color: rgb(255, 0, 140);
+    font-size: 25px;
+}
+
+footer {
+    position: relative;
+    width: 87%;
+    height: auto;
+    padding: 50px 100px;
+    background-color: rgba(53, 50, 53, 0.432);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+footer .footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+footer .footer .faboutus {
+    width: 40%;
+    margin-left: -52px;
+}
+
+footer .footer .faboutus {
+    position: relative;
+    font-weight: 500;
+    margin-bottom: 15px;
+
+}
+
+.sci {
+    margin-top: 39px;
+    margin-bottom: 20px;
+    margin-right: 728px;
+    margin-left: -52px;
+    display: flex;
+    border-radius: 50px;
+}
+
+.sci2 {
+    margin-top: -60px;
+    margin-bottom: 20px;
+    margin-right: 728px;
+    margin-left: 5px;
+    display: flex;
+}
+
+.sci3 {
+    margin-top: -60px;
+    margin-bottom: 20px;
+    margin-right: 728px;
+    margin-left: 60px;
+    display: flex;
+}
+
+.sci4 {
+    margin-top: -60px;
+    margin-bottom: 20px;
+    margin-right: 728px;
+    margin-left: 115px;
+    display: flex;
+}
+
+.sci5 {
+    margin-top: -60px;
+    margin-bottom: 20px;
+    margin-right: 728px;
+    margin-left: 174px;
+    display: flex;
+}
+
+.sci li {
+    list-style: none;
+}
+
+.sci2 li {
+    list-style: none;
+}
+
+.sci3 li {
+    list-style: none;
+}
+
+.sci4 li {
+    list-style: none;
+}
+
+.sci5 li {
+    list-style: none;
+}
+
+.sci li a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background: #222;
+    display: flex;
+    text-decoration: none;
+    margin-left: 10px;
+    border-radius: 50px;
+}
+
+.sci li a:hover {
+    background-color: rgb(0, 60, 255);
+}
+
+.sci i {
+    color: white;
+}
+
+.sci2 i {
+    color: white;
+}
+
+.sci3 i {
+    color: white;
+}
+
+.sci4 i {
+    color: white;
+}
+
+.sci5 i {
+    color: white;
+}
+
+.flinks {
+
+    position: absolute;
+    width: 25%;
+    margin: 0px 8px 1px 575px;
+
+}
+
+.flinks ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+
+}
+
+.flinks ul li {
+    list-style: none;
+}
+
+.flinks ul li a:hover {
+    color: rgb(203, 200, 206);
+}
+
+.fcontact .info li {
+    margin-bottom: 16px;
+    font-weight: 20px;
+    list-style: none;
+
+}
+
+.fcontact .info li span {
+    font-size: 17px;
+}
+
+.fcontact {
+    margin-left: 82%;
+    margin-top: -260px;
+
+}
+
+.fcontact .info a {
+    text-decoration: none;
+    color: rgb(7, 7, 7);
+}
+
+.fcontact .info a:hover {
+    color: rgb(10, 46, 5);
+}
+
+.copyright p {
+    text-align: center;
+    margin-top: -34px;
+    margin-right: 50px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sci2 li a:hover {
+    background-color: rgb(10, 163, 5);
+}
+
+.sci2 li a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background: #222;
+    display: flex;
+    text-decoration: none;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+.sci3 li a:hover {
+    background-color: rgb(241, 13, 108);
+}
+
+.sci3 li a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background: #222;
+    display: flex;
+    text-decoration: none;
+    margin-left: 10px;
+    border-radius: 50px;
+}
+
+.sci4 li a:hover {
+    background-color: rgb(6, 192, 248);
+}
+
+.sci4 li a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background: #222;
+    display: flex;
+    text-decoration: none;
+    margin-left: 10px;
+    border-radius: 50px;
+}
+
+.sci5 li a:hover {
+    background-color: rgb(248, 6, 6);
+}
+
+.sci5 li a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background: #222;
+    display: flex;
+    text-decoration: none;
+    margin-left: 10px;
+    border-radius: 50px;
+}
+
+.menu1 {
+    background-image: url("/images/howrahbride/how4.jpg");
+    animation: imgchange 20s linear infinite;
+
+}
+
+@keyframes imgchange {
+    0% {
+        background-image: url("/images/howrahbride/how2.jpg");
+    }
+
+    25% {
+        background-image: url("/images/howrahbride/how3.jpg");
+    }
+
+    50% {
+        background-image: url("/images/howrahbride/how4.jpg");
+    }
+
+    75% {
+        background-image: url("/images/howrahbride/how5.jpg");
+    }
+
+    100% {
+        background-image: url("/images/howrahbride/how6.jpg");
+    }
+}
+
+.menu2 {
+    background-image: url("/images/Ecopark/5d89f69c7e8a220e5a299f65_1569322652854.jpg");
+    animation: imgchange2 20s linear infinite;
+
+}
+
+@keyframes imgchange2 {
+    0% {
+        background-image: url("/images/Ecopark/5d89f69c7e8a220e5a299f65_1569322652854.jpg");
+    }
+
+    25% {
+        background-image: url("/images/Ecopark/Christ-the-Redeemer-replica-Eco-Park-7-wonders-768X576.jpg");
+    }
+
+    50% {
+        background-image: url("/images/Ecopark/Replique-Inde-Calcutta.jpg");
+    }
+
+    75% {
+        background-image: url("/images/Ecopark/Musical-Fountain_01.jpg");
+    }
+
+    100% {
+        background-image: url("/images/Ecopark/5d89f69c7e8a220e5a299f65_1569322652854.jpg");
+    }
+}
+
+.menu3 {
+    background-image: url("/images/EdenGardens/16-kolkata-eden-gardens-3.jpg");
+    animation: imgchange3 20s linear infinite;
+
+}
+
+@keyframes imgchange3 {
+    0% {
+        background-image: url("/images/EdenGardens/16-kolkata-eden-gardens-3.jpg");
+    }
+
+    25% {
+        background-image: url("/images/EdenGardens/cricket.jpg");
+    }
+
+    50% {
+        background-image: url("/images/EdenGardens/eden-gardens-cricket-stadium-kolkata-india-october-first-over-day-night-test-match-will-be-played-november-162634420.jpg");
+    }
+
+    75% {
+        background-image: url("/images/EdenGardens/Eden_Gardens_under_floodlights_during_a_match.jpg");
+    }
+
+    100% {
+        background-image: url("/images/EdenGardens/trivandrum-international-stadium_1581079704.jpg");
+    }
+}
+
+.menu4 {
+    background-image: url("/images/CollegeStreet/1615956832_dsc_4476.jpg");
+    animation: imgchange4 20s linear infinite;
+
+}
+
+@keyframes imgchange4 {
+    0% {
+        background-image: url("/images/CollegeStreet/1615956832_dsc_4476.jpg");
+    }
+
+    25% {
+        background-image: url("/images/CollegeStreet/books.jpg");
+    }
+
+    50% {
+        background-image: url("/images/CollegeStreet/College-street-Kolkata-interesting-facts-about-kolkata.jpg");
+    }
+
+    75% {
+        background-image: url("/images/CollegeStreet/EKdnm6RVAAUMLGg.jpg");
+    }
+
+    100% {
+        background-image: url("/images/CollegeStreet/College-street-Kolkata-interesting-facts-about-kolkata.jpg");
+    }
+}
+
+.menu6 {
+    background-image: url("/images/PrincepGhat/d5392ae4eae5d92984845965890b9163.jpg");
+    animation: imgchange6 20s linear infinite;
+
+}
+
+@keyframes imgchange6 {
+    0% {
+        background-image: url("/images/PrincepGhat/d5392ae4eae5d92984845965890b9163.jpg");
+    }
+
+    25% {
+        background-image: url("/images/PrincepGhat/princep-ghat-4764716__340.jpg");
+    }
+
+    50% {
+        background-image: url("/images/PrincepGhat/Princep-Ghat-6.jpg");
+    }
+
+    75% {
+        background-image: url("/images/PrincepGhat/RiverFront_160817_01.jpg");
+    }
+
+    100% {
+        background-image: url("/images/PrincepGhat/dsc05518.jpg");
+    }
+}
+
+.menu5 {
+    background-image: url("/images/victoria/555418532Victoria-Memorial-Kolkata.jpg");
+    animation: imgchange5 20s linear infinite;
+
+}
+
+@keyframes imgchange5 {
+    0% {
+        background-image: url("/images/victoria/555418532Victoria-Memorial-Kolkata.jpg");
+    }
+
+    25% {
+        background-image: url("/images/victoria/6b36eb9b45395045cc7d90b3354461ca.jpg");
+    }
+
+    50% {
+        background-image: url("/images/victoria/gate.jpg");
+    }
+
+    75% {
+        background-image: url("/images/victoria/Untitled-design-6.jpg");
+    }
+
+    100% {
+        background-image: url("/images/victoria/Victoria-Statue-front-Memorial-Hall-Kolkata-West.jpg");
+    }
+}
+
+.menu7 {
+    background-image: url("/images/ScienceCIty/-85870_10402.jpg");
+    animation: imgchange7 20s linear infinite;
+
+}
+
+@keyframes imgchange7 {
+    0% {
+        background-image: url("/images/ScienceCIty/-85870_10402.jpg");
+    }
+
+    25% {
+        background-image: url("/images/ScienceCIty/1.jpg");
+    }
+
+    50% {
+        background-image: url("/images/ScienceCIty/S.City-DSC04287.jpg");
+    }
+
+    75% {
+        background-image: url("/images/ScienceCIty/science-city.jpg");
+    }
+
+    100% {
+        background-image: url("/images/ScienceCIty/the-dark-ride.jpg");
+    }
+}
+
+.menu8 {
+    background-image: url("/images/NationalLib/2019-07-14.jpg");
+    animation: imgchange8 20s linear infinite;
+
+}
+
+@keyframes imgchange8 {
+    0% {
+        background-image: url("/images/NationalLib/2019-07-14.jpg");
+    }
+
+    25% {
+        background-image: url("/images/NationalLib/2f10dc58-da98-46cb-b5c2-50501f4043c6-istock-1006005512.jpg");
+    }
+
+    50% {
+        background-image: url("/images/NationalLib/national-library-kolkata-entry-fee-timings-holidays-reviews-header.jpg");
+    }
+
+    75% {
+        background-image: url("/images/NationalLib/national-library-kolkata-tourism-holidays-closed-on-timings.jpg");
+    }
+
+    100% {
+        background-image: url("/images/NationalLib/2019-07-14.jpg");
+    }
+}
+
+.menu9 {
+    background-image: url("/images/motherwax/Mother-Wax-Museum.jpg");
+    animation: imgchange9 20s linear infinite;
+
+}
+
+@keyframes imgchange9 {
+    0% {
+        background-image: url("/images/motherwax/Mother-Wax-Museum.jpg");
+    }
+
+    25% {
+        background-image: url("/images/motherwax/srk.jpg");
+    }
+
+    50% {
+        background-image: url("/images/motherwax/5.jpg");
+    }
+
+    75% {
+        background-image: url("/images/motherwax/26.jpg");
+    }
+
+    100% {
+        background-image: url("/images/motherwax/Mother-Wax-Museum.jpg");
+    }
+}
